@@ -6,6 +6,5 @@ const main  = document.querySelector('#main')
 render(
 <div>
 <StorePicker />
-<StorePicker />
 </div>, 
 main)
